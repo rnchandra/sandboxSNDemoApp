@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="po_date" label="PO Date" language="en" table="x_498786_innoapp_demo_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>po_date</element>
+            <help/>
+            <hint/>
+            <label>PO Date</label>
+            <language>en</language>
+            <name>x_498786_innoapp_demo_table</name>
+            <plural>PO Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-05-28 05:27:47</sys_created_on>
+            <sys_id>3c28b26ddb8110106d5f4870399619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>PO Date</sys_name>
+            <sys_package display_value="InnoApp" source="x_498786_innoapp">52c5fd25db0110106d5f48703996198a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="InnoApp">52c5fd25db0110106d5f48703996198a</sys_scope>
+            <sys_update_name>sys_documentation_x_498786_innoapp_demo_table_po_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-05-28 05:27:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
